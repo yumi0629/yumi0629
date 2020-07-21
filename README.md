@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Android & Flutter.
+📫 How to reach me: QQ:984542616
+
+
 <!--
 **yumi0629/yumi0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
