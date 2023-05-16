@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Android & Flutter.
+🔭 I’m currently working on Android & Flutter & HarmonyOS.
 
 📫 How to reach me: QQ:984542616
 
